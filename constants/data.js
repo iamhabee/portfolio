@@ -84,10 +84,10 @@ const userData = {
       desc: "Creating web application and Teaching programming and software development proccess.",
     },
     {
-      title: "Graduation",
+      title: "College",
       company: "Yaba College Of Technology",
       year: "2017",
-      companyLink: "https://upes.co.in",
+      companyLink: "https://yabatech.edu.ng",
       desc: "Major in Computer Engineering with a CGPA of 3. Nobody asks this but it's okay.",
     },
     {
